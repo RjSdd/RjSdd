@@ -1,3 +1,5 @@
-<title> HALLO WORLD </title>
-
-<P> I AM FROM INDONESIAN </P>
+<style>
+body {
+	color: red;
+}
+</style>
